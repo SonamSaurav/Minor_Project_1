@@ -29,7 +29,7 @@ scikit-learn
 
 #### Clone the Repository and Install Dependencies
 
-git clone http://github.com/SonamSaurav/Minor_Project_1/HealthReportAnalyzer
+git clone (https://github.com/SonamSaurav/Minor_Project_1/tree/main/HealthReportAnalyzer)
 
 ###### Program Setup
 
