@@ -17,9 +17,13 @@ I have used Python, HTML, CSS, JavaScript and Machine Learning Concepts.
 
 #### Prerequisites
  streamlit
+ 
 tensorflow
+
 streamlit_option_menu 
+
 keras
+
 scikit-learn
 ### Steps to Set Up and Run
 
